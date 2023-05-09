@@ -1,0 +1,2 @@
+# SpaceTraitors
+SpaceTraders API client
